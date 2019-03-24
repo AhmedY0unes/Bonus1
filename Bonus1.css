@@ -1,0 +1,104 @@
+div{
+    width: 100%;
+}
+
+p#h{
+    background-color: aqua;
+    text-align: end;
+    font-size: 300%;
+    margin: 0%;
+    -webkit-text-fill-color:  rgb(7, 138, 138);
+    }
+    p#c{
+
+        background-color: aqua;
+    text-align: end;
+    margin:0%;
+    font-size: 150%;
+ -webkit-text-fill-color: rgb(7, 138, 138);
+    }
+    .fri{
+        border: solid 5px rgb(7, 138, 138);
+        width: 12%;
+        height: 22%;
+        border-radius: 1.2em;
+        position: absolute;
+        top:100px;
+        background-color: rgb(121, 233, 233);
+        
+    }
+    div.fri h1{
+        color: rgb(7, 138, 138);
+        position: relative;
+        bottom: 15px;
+        left: 5px;
+        
+    }
+    div.fri ul{
+        position: relative;
+        bottom: 30px;
+        right: 20px;
+        color: rgb(139, 184, 184);
+    }
+    div.spa{
+        background-color: rgb(121, 233, 233);
+        border: solid 5px rgb(126, 192, 192);
+        width: 80%;
+        height: 22%;
+        border-radius: 1.2em;
+        position: absolute;
+        left: 14%;
+        top:100px;
+        padding: 5px;
+        
+
+    
+         
+    }
+    img.sp{
+        height: 60%;
+        width: 60%;
+        object-fit: contain;
+        position: relative;
+        left: 680px;
+        bottom: 70px;
+    }
+    u{
+        
+    border-bottom: 3px dashed ;
+    text-decoration: none;
+    
+        
+    }
+    h3{
+        color: rgb(7, 138, 138);
+        position: relative;
+        bottom: 15px;
+        left: 5px;
+    }
+    p, pre{
+        color: rgb(7, 138, 138);
+        position: relative;
+        bottom: 10px;
+        left: 5px;  
+    }
+    div.ck{
+
+        border: solid 5px rgb(126, 192, 192);
+        width: 80%;
+        height: 35%;
+        border-radius: 1.2em;
+        position: absolute;
+        left: 14%;
+        top:270px;
+        background-color: rgb(121, 233, 233);
+        padding: 5px;
+    }
+    img.cks{
+        height: 80%;
+        width: 80%;
+        object-fit: contain;
+        position: relative;
+        left: 510px;
+        bottom: 130px;
+    }
